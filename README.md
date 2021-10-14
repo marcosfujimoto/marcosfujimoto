@@ -20,7 +20,7 @@
  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img align="center" alt="Rafa-Python" height="50" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img align="center" alt="Rafa-Python" height="50" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
   
   ![Snake animation](https://github.com/marcosfujimoto/marcosfujimoto/blob/output/github-contribution-grid-snake.svg)
