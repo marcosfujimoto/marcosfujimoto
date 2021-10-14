@@ -1,6 +1,6 @@
 ### Olá, eu sou o Marcos Fujimoto 👋
 
-- Atualmente aprendendo Python e SQL
+- Atualmente fazendo formação Front-End pela Alura
 - Pronomes: ele/dele
 - Graduando em Análise e Desenvolvimento de Sistemas
 
