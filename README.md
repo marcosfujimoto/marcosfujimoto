@@ -1,8 +1,8 @@
 ### Olá, eu sou o Marcos Fujimoto 👋
 
-- Atualmente fazendo formação Front-End pela Alura
+- Atualmente estudando FrontEnd
 - Pronomes: ele/dele
-- Graduando em Análise e Desenvolvimento de Sistemas
+- Graduando em Análise e Desenvolvimento de Sistemas pela UAM -Universidade Anhembi Morumbi
 
 ##
 
